@@ -1,3 +1,3 @@
 Algoritmo sin_titulo
-	Escribir "Hola a todos!!!"
+	Escribir "Hola a todos!"
 FinAlgoritmo
